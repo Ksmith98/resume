@@ -1,0 +1,7 @@
+[Add]
+-Special font family (s)
+-Icon / Unique name / Photo
+-Background COlor 
+
+[Workflow] 
+-Visually work in Indesign > implement into code

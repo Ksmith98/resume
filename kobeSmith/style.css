@@ -1,0 +1,45 @@
+/*---------------------ASIDE-------------------*/
+aside{
+background-color: #647087;
+margin-right: 5%;
+padding-left: 0%;
+}
+aside *{
+    color-white:
+}
+aside h1{
+    border-bottom: 2px solid white;
+    font-size: 40px;
+    padding-bottom: 0px;
+    color: white;
+}
+
+aside p{
+    font-size: 200%;
+    padding-bottom: 35px;
+    color: white;
+}
+/*---------------------MAIN-------------------*/
+.column-two{
+    padding-top: 0px;
+}
+/*--------------------lAYOUT------------------*/
+.main-container{
+    display: flex;
+    width: 1200px;
+}
+
+body{
+    background: solid-white;
+}
+
+
+
+h1{
+    font-family: 'Gill Sans MT';
+}
+
+#profile-pic img{
+    border-radius: 50px;
+    height: 350px;
+}
